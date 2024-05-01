@@ -1,3 +1,5 @@
+You can see the [live demo version here](https://rich-page.netlify.app/about/)
+
 # Astro Starter Kit: Basics
 
 ```sh
